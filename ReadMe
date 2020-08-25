@@ -1,0 +1,20 @@
+
+
+    1) Create a framework together as a team
+        1.1) You should add dependencies together.
+        1.2) You should create basic part of the framework together as well (Driver class , Parent Class)
+
+    2) Step 1 framework should be created together and push the code. Rest of the team should clone the project
+            and after this point everyone should do their own task.
+
+    3) These are the features which you need to work on.
+        3.1)    Create a country (name is SOMECOUNTRY )and create a city (choose a SOMECOUNTRY from the country dropdown.) . Remove
+            country and city.
+                After adding city for country should not be deleted. Test this scenario as well.
+        3.2)    Create a SubjectCategories(name is MySubjectCat ) and create a subjects (Choose a name is MySubjectCat).
+        3.3)    Create a school.
+        3.4)    Employees , school.
+        3.5)
+
+
+    4) After everyone finished features. Should push the code to github if there is a conflict solve the conflict.
